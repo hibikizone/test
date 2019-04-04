@@ -197,11 +197,15 @@ header {
   font-weight: normal;
 }
 
+.message-wrapper a {
+  color: white;
+}
+
 .message {
   padding: 15px 40px;
-  background-color: #384ce1;
+  background-color: #454549;
   cursor: pointer;
-  box-shadow: 0 7px #323e9c;
+  box-shadow: 0 7px #232329;
 }
 
 .message:active {
