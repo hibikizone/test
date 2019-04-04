@@ -59,12 +59,12 @@ h1 span, h5 {
 }
 
 .footer-link p {
-	font-size: 16px;
+	font-size: 20px;
 	color: #5f5d60;
 	font-family: "Hiragino Kaku Gothic ProN", sans-serif;
 	opacity: 0.7;
-	font-weight: 200;
-	display: inline-block;
+	font-weight: 500;
+	display: block;
 	text-align: center;
 }
 
