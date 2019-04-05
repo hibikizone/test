@@ -186,6 +186,11 @@ header {
   font-weight: normal;
 }
 
+.heading h4 {
+  font-weight: normal;
+  font-size: 14px;
+}
+
 .message-wrapper {
   border-bottom: 1px solid #eee;
   padding-bottom: 80px;
@@ -206,6 +211,7 @@ header {
   background-color: #454549;
   cursor: pointer;
   box-shadow: 0 7px #232329;
+  font-style: italic;
 }
 
 .message:active {

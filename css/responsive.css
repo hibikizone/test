@@ -38,12 +38,12 @@
     background-size: contain;   /* レスポンシブで背景画像を調整 */
   }
 
-  /* header-rightクラスのdisplayをnoneに指定してください */
+
   .header-right {
     display: none;
   }
 
-  /* menu-iconクラスのdisplayをblockに指定してください  */
+
   .menu-icon {
     display: block;
   }
@@ -57,6 +57,11 @@
   }
 
   .members-wrapper h2 {
-    color: white;
+    color: #002333;
+  }
+
+  .heading h4 {
+    font-size: 12px;
+    text-align: left;
   }
 }
